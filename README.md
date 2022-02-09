@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zachegner
+- 👀 I’m interested in Web Design, Software Development, Robotics
+- 🌱 I’m currently learning HTML, CSS, Javascript, Ruby on Rails, SQL, Java
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me: egner.zach@gmail.com
