@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachegner
 - 👀 I’m interested in Web Design, Software Development, Robotics
-- 🌱 I’m currently learning MERN full stack development
+- 🌱 I’m currently learning MERN full stack development, Vue.js, and AWS.
 - 💻 I have experience using HTML, CSS, JavaScript, React, Node.js, SQL, AWS, Ruby, Rails, Java, Python, C#
 - 💞️ I’m looking to collaborate and land a job in the tech industry
 - 📫 How to reach me: egner.zach@gmail.com
