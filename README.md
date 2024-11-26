@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @zachegner
-- 👀 I’m interested in Web Design, Software Development, Robotics
-- 🌱 I’m currently learning MERN full stack development, Vue.js, and AWS.
-- 💻 I have experience using HTML, CSS, JavaScript, React, Node.js, SQL, AWS, Ruby, Rails, Java, Python, C#
-- 💞️ I’m looking to collaborate and land a job in the tech industry
-- 📫 How to reach me: egner.zach@gmail.com
+- 💻 Full-stack developer specializing in Node.js and React
+- 🚀 Experienced in building secure, high-performance applications
+- 🤖 Skilled in integrating AI tools like Large Language Models (LLMs)
+- ☁️ Proficient in AWS Cloud Engineering and deploying scalable architectures
+- 🛠️ Adept with technologies including Node, Next.js, Vue, Express, and GraphQL
+- 📊 Expert in data visualization and optimizing backend performance
+- 👨‍🏫 Passionate mentor with experience leading and guiding development teams
+- 🏆 Committed to leveraging emerging technologies for impactful software solutions
+- 📫 Email: zach@zachegner.com
+- LinkedIn: zach-egner
