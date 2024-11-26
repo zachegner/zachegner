@@ -1,8 +1,8 @@
-- 💻 Full-stack developer specializing in Node.js and React
+- 💻 Full-stack developer specializing in Node.js, React and Vue
 - 🚀 Experienced in building secure, high-performance applications
 - 🤖 Skilled in integrating AI tools like Large Language Models (LLMs)
 - ☁️ Proficient in AWS Cloud Engineering and deploying scalable architectures
-- 🛠️ Adept with technologies including Node, Next.js, Vue, Express, and GraphQL
+- 🛠️ Adept with technologies including Next.js, Express, and Python
 - 📊 Expert in data visualization and optimizing backend performance
 - 👨‍🏫 Passionate mentor with experience leading and guiding development teams
 - 🏆 Committed to leveraging emerging technologies for impactful software solutions
