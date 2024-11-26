@@ -7,4 +7,4 @@
 - 👨‍🏫 Passionate mentor with experience leading and guiding development teams
 - 🏆 Committed to leveraging emerging technologies for impactful software solutions
 - 📫 Email: zach@zachegner.com
-- LinkedIn: zach-egner
+- 💼 LinkedIn: [zach-egner](https://www.linkedin.com/in/zach-egner/ "Zach Egner LinkedIn")
